@@ -1,0 +1,6 @@
+1-laboratorio_1
+2-laboratorio_2
+3-laboratorio_3
+4-auditorio
+5-sala_de_manutencao
+6-teste
